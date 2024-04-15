@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# gini_llm
-=======
-# Name of project
+# Large language models in multi agents simulations
 
 ## Data description
 
@@ -21,4 +18,3 @@ Calculated informations in steps.
 * Gini = gini coefficient of inequality (0 = wealth is equally distributed, 1 = all the wealth holds one agent)
 * Wealth = how much wealth (money, education, information) agent have at concrete step
 * Steps_not_given = how many times from last transaction havent agent transfered its wealth
->>>>>>> d124016249ada552db8f0e9ae67511ecd160ae63
